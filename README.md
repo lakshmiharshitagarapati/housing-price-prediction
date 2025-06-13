@@ -9,15 +9,13 @@ A machine learning project to predict house prices using the [Kaggle House Price
 - **Score on Kaggle**: 0.14740 (log RMSE)
 
 ## 📁 Folder Structure
-├── data/ # Raw training and test data
-    ├──test.csv
-    ├──train.csv
-├── notebooks/ # Python source code
-├── main.py
-├── data_description.txt
-├── submission.csv # Final predictions for Kaggle
-├── README.md # This file
-└── requirements.txt # Required Python packages
+├── data/               ← train.csv, test.csv
+├── notebooks/           ← eda.ipynb
+├── main.py              ← main script
+├── submission.csv       ← Kaggle submission file
+├── README.md            ← project overview
+├── requirements.txt     ← libraries listed
+└── data_description.txt ← feature descriptions from Kaggle
 ## 📦 Step 4: Create a requirements.txt
 
 List all Python libraries used so others can easily install them:
