@@ -13,7 +13,7 @@ The final score on Kaggle was **0.14740 (log RMSE)** using a Random Forest Regre
 A machine learning project to predict house prices using the [Kaggle House Prices dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). 
 ## 🥇 Kaggle Leaderboard Result
 
-I ranked **#2785 out of 27,883 participants** on the Kaggle leaderboard!
+I ranked **#2789 out of 27,883 participants** on the Kaggle leaderboard!
 ### My Submission:
 | Metric | Score |
 |-------|--------|
